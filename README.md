@@ -1,0 +1,1 @@
+Vidoe fayldan yuzni aniqlash
